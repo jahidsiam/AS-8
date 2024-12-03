@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://www.liveauctioneers.com/news/wp-content/uploads/2018/03/lf-1.jpg",
+      "review": "A tragic love story set in the roaring twenties. Fitzgerald masterfully captures the essence of the era, weaving themes of wealth, desire, and societal decay. The characters, particularly the enigmatic Jay Gatsby and the narrator Nick Carraway, are intricately developed, offering insights into the complexities of human nature. Through lavish parties and clandestine affairs, the novel delves into the pursuit of the American Dream and its ultimate disillusionment. 'The Great Gatsby' remains a timeless portrayal of love and loss against the backdrop of a changing society.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["#Romance", "#Classic"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://ew.com/thmb/VF6jG0phCVd7LrYc2dTm0DIEUGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/to-kill-mockingbird_0-6246f05d04644ae5ba1a02409d943a13.jpg",
+      "review": "A powerful exploration of race and morality in the American South. Harper Lee's seminal work challenges societal norms and prejudices through the eyes of young Scout Finch. Set amidst the backdrop of the Great Depression, the novel follows her father, Atticus Finch, a principled lawyer defending an innocent black man accused of rape. Through vivid characters and poignant storytelling, 'To Kill a Mockingbird' confronts issues of injustice, compassion, and the loss of innocence. Its enduring relevance cements its status as a classic of American literature.",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["#Drama", "#Classic"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://m.media-amazon.com/images/I/41nGXlJ2GSL._SY445_SX342_.jpg",
+      "review": "A dystopian novel depicting a totalitarian regime and the struggle for individual freedom. George Orwell's '1984' serves as a chilling warning against the dangers of authoritarianism and surveillance. Set in a bleak future where independent thought is outlawed, protagonist Winston Smith rebels against the oppressive Party led by Big Brother. Orwell's visionary narrative explores themes of propaganda, manipulation, and the erosion of truth. '1984' remains a haunting reminder of the importance of preserving liberty and resisting tyranny in all its forms.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["#Dystopian", "#Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    
+    {
+      "bookId": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://sothebys-md.brightspotcdn.com/dims4/default/3550b2c/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fea%2F4c%2F8bf4e9334ee0b9a64e96df9a5e32%2Fl22404-c9kvw-1.jpg",
+      "review": "A coming-of-age novel following the disillusioned Holden Caulfield as he navigates the challenges of adolescence. J.D. Salinger's 'The Catcher in the Rye' offers a raw and unfiltered portrayal of teenage angst and alienation. Holden's quest for authenticity amidst a world he perceives as phony resonates with readers of all ages. Through Salinger's poignant prose, the novel explores themes of identity, innocence, and the search for meaning in a superficial society. 'The Catcher in the Rye' continues to captivate audiences with its timeless portrayal of youthful rebellion and disillusionment.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["#ComingOfAge", "#ModernClassic"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 6,
+      "bookName": " The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://images.booksense.com/images/533/347/9780063347533.jpg",
+      "review": "An enchanting adventure story set in Middle-earth, featuring Bilbo Baggins and a quest to reclaim treasure from the dragon Smaug. J.R.R. Tolkien's 'The Hobbit' introduces readers to a world of magic, dwarves, and epic quests. Through Bilbo's journey from the comforts of the Shire to the dangers of the Lonely Mountain, Tolkien weaves a tale of courage, friendship, and self-discovery. With its richly imagined landscapes and captivating mythology, 'The Hobbit' lays the foundation for Tolkien's iconic 'Lord of the Rings' trilogy, enchanting readers of all ages with its timeless charm.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["#Adventure", "#Epic"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    },{
+      "bookId": 4,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i2.wp.com/itsthestorygirl.com/wp-content/uploads/2019/09/Pride-and-Prejudice-Books-1.png?w=722&ssl=1",
+      "review": "A classic tale of love, manners, and social class in early 19th-century England. Jane Austen's 'Pride and Prejudice' follows the spirited Elizabeth Bennet as she navigates the intricacies of romance and societal expectations. Against the backdrop of Georgian England, Austen masterfully crafts a world of wit, irony, and romance. The novel's timeless themes of love, marriage, and personal growth continue to resonate with readers today. Through unforgettable characters and sparkling dialogue, 'Pride and Prejudice' remains a beloved classic of English literature.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["#Romance", "#Classic"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    }
+  
+  ]

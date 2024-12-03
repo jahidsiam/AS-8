@@ -1,0 +1,53 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "image": "https://www.liveauctioneers.com/news/wp-content/uploads/2018/03/lf-1.jpg",
+        "totalUsers": 9000,
+        "usersRead": 2100,
+        "color": "#0088FE"
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "image": "https://ew.com/thmb/VF6jG0phCVd7LrYc2dTm0DIEUGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/to-kill-mockingbird_0-6246f05d04644ae5ba1a02409d943a13.jpg",
+        "totalUsers": 9000,
+        "usersRead": 1800,
+        "color": "#00C49F"
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "image": "https://m.media-amazon.com/images/I/41nGXlJ2GSL._SY445_SX342_.jpg",
+        "totalUsers": 9000,
+        "usersRead": 2700,
+        "color": "#FFBB28"
+    },
+    {
+        "bookId": 4,
+        "bookName": "Pride and Prejudice",
+        "image": "https://i2.wp.com/itsthestorygirl.com/wp-content/uploads/2019/09/Pride-and-Prejudice-Books-1.png?w=722&ssl=1",
+
+        "totalUsers": 9000,
+        "usersRead": 1500,
+        "color": "#FF8042"
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Catcher in the Rye",
+        "image": "https://sothebys-md.brightspotcdn.com/dims4/default/3550b2c/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fea%2F4c%2F8bf4e9334ee0b9a64e96df9a5e32%2Fl22404-c9kvw-1.jpg",
+
+        "totalUsers": 9000,
+        "usersRead": 1200,
+        "color": "#AF19FF"
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "image": "https://images.booksense.com/images/533/347/9780063347533.jpg",
+
+        "totalUsers": 9000,
+        "usersRead": 700,
+        "color": "#FF19AA"
+    }
+]

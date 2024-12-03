@@ -1,0 +1,44 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "authorName": "F. Scott Fitzgerald",
+        "authorImage": "https://sevenov.com/wp-content/uploads/2023/02/f-scott-fitzgerald-20230212.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+        "authorDescription": "Francis Scott Key Fitzgerald (1896–1940) was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century. Fitzgerald is best known for his novels depicting the Jazz Age, particularly 'The Great Gatsby,' which explores themes of wealth, love, and the American Dream. His works often reflect the disillusionment and moral ambiguity of the post-World War I era, earning him a place in the literary canon."
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "authorName": "Harper Lee",
+        "authorImage": "https://cdn.britannica.com/04/193204-050-4B1C2FE7/Harper-Lee-American.jpg",
+        "authorDescription": "Harper Lee (1926–2016) was an American author best known for her Pulitzer Prize-winning novel 'To Kill a Mockingbird.' Born in Alabama, Lee drew inspiration from her own childhood experiences in the racially charged South. 'To Kill a Mockingbird' remains a seminal work in American literature, addressing themes of racial injustice, moral growth, and the loss of innocence. Despite her limited literary output, Lee's impact on literature and social consciousness is profound."
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "authorName": "George Orwell",
+        "authorImage": "https://timesofindia.indiatimes.com/photo/101256138/101256138.jpg",
+        "authorDescription": "George Orwell (1903–1950), born Eric Arthur Blair, was an English novelist, essayist, and critic. Orwell is best known for his dystopian novel '1984' and allegorical novella 'Animal Farm,' both of which serve as critiques of totalitarianism and authoritarianism. Through his works, Orwell explored themes of political corruption, surveillance, and the manipulation of truth. His lucid prose and penetrating social commentary continue to influence literature and political discourse."
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Catcher in the Rye",
+        "authorName": "J.D. Salinger",
+        "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2_GqYh5nAeHMtyhBGAcTjL1PxiE03FZEWiSu-THUvqXEVyoym6PRwA35QM-mgGrrxuE&usqp=CAU",
+        "authorDescription": "Jerome David Salinger (1919–2010) was an American writer known for his reclusive nature and influential novel 'The Catcher in the Rye.' Despite his limited literary output, Salinger's portrayal of teenage angst and alienation struck a chord with readers worldwide. 'The Catcher in the Rye' continues to be studied and celebrated for its candid exploration of adolescent identity and societal disillusionment."
+    },
+    {
+        "bookId": 6,
+        "bookName": " The Hobbit",
+        "authorName": "J.R.R. Tolkien",
+        "authorImage": "https://miro.medium.com/v2/resize:fit:1200/1*tzW05duL0-U6ebpoYIGlWw.jpeg",
+        "authorDescription": "John Ronald Reuel Tolkien (1892–1973) was an English writer, poet, philologist, and academic, best known as the author of the high fantasy works 'The Hobbit' and 'The Lord of the Rings.' Tolkien's richly imagined legendarium, set in the fictional world of Middle-earth, has captivated readers for generations with its intricate mythology, languages, and characters. His contributions to fantasy literature have earned him a place among the most influential writers of the 20th century."
+    },
+    {
+        "bookId": 4,
+        "bookName": "Pride and Prejudice",
+        "authorName": "Jane Austen",
+        "authorImage": "https://cdn.britannica.com/12/172012-050-DAA7CE6B/Jane-Austen-Cassandra-engraving-portrait-1810.jpg",
+        "authorDescription": "Jane Austen (1775–1817) was an English novelist known for her six major novels, which interpret, critique, and comment upon the British landed gentry at the end of the 18th century. Her works, including 'Pride and Prejudice,' are celebrated for their social realism, biting wit, and exploration of romantic relationships and societal expectations. Austen's enduring popularity and influence on literature have solidified her status as one of the greatest novelists in the English language."
+    }
+]

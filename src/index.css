@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.workSans {
+  font-family: "Work Sans", sans-serif;
+}
+
+
+
+
+
+
+/*
+1. route
+2. tailwind
+3. daisy ui
+4. toast
+5. localStorage 
+6. _redirects
+7. 
+
+
+
+*/
